@@ -30,6 +30,7 @@ def least_coins(cents)
   coins[:pennies]= cents
   
   puts coins 
+  coins
 #Code your answer here!
 end
 
